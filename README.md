@@ -19,21 +19,21 @@ https://www.figma.com/design/pG2CHrP8L8YRLh0hCFyEQH/Untitled?node-id=0-1&t=UFQm5
 ## Screens
 
 ## Login Screen
-! [Login] (iPhone 13 & 14 - 1.png)
-! [Login] (iPhone 13 & 14 - 1@2x.png)
+<img src="iPhone 13 & 14 - 1.png" width="250"/>
+<img src="iPhone 13 & 14 - 1@2x.png" width="250"/>
 
 ## Dashboard
-! [Dashboard] (Dashboard.png)
-! [Dashboard] (Dashboard@2x.png)
+<img src="Dashboard.png" width="250"/>
+<img src="Dashboard@2x.png" width="250"/>
 
 ## TimeTable
-! [TimeTable] (TimeTable.png)
-! [TimeTable] (TimeTable@2x.png)
+<img src="TimeTable.png" width="250"/>
+<img src="TimeTable@2x.png" width="250"/>
 
 ## TaskList
-! [Tasks] (Task List.png)
-! [Tasks] (Task List@2x.png)
+<img src="Task List.png" width="250"/>
+<img src="Task List@2x.png" width="250"/>
 
 ## Progress Screen
-! [Progress] (Progress Screen.png)
-! [Progress] (Progress Screen@2x.png)
+<img src="Progress Screen.png" width="250"/>
+<img src="Progress Screen@2x.png" width="250"/>
