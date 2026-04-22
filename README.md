@@ -14,7 +14,7 @@ A mobile app UI designed to help students manage tasks, schedules, and track pro
 - Figma
 
 ## Prototype Link
-https://www.figma.com/design/pG2CHrP8L8YRLh0hCFyEQH/Untitled?node-id=0-1&t=UFQm5IuJ9ZGeDK3R-1
+https://www.figma.com/design/pG2CHrP8L8YRLh0hCFyEQH/Untitled?node-id=0-1&t=8W7Acac26EUdxZ3S-1
 
 ## Screens
 
